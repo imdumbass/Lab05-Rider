@@ -1,0 +1,15 @@
+/Users/macintosh/RiderProjects/Lab05/Lab05/obj/Debug/net7.0/Lab05.csproj.AssemblyReference.cache
+/Users/macintosh/RiderProjects/Lab05/Lab05/obj/Debug/net7.0/Lab05.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macintosh/RiderProjects/Lab05/Lab05/obj/Debug/net7.0/Lab05.AssemblyInfoInputs.cache
+/Users/macintosh/RiderProjects/Lab05/Lab05/obj/Debug/net7.0/Lab05.AssemblyInfo.cs
+/Users/macintosh/RiderProjects/Lab05/Lab05/obj/Debug/net7.0/Lab05.csproj.CoreCompileInputs.cache
+/Users/macintosh/RiderProjects/Lab05/Lab05/bin/Debug/net7.0/Lab05
+/Users/macintosh/RiderProjects/Lab05/Lab05/bin/Debug/net7.0/Lab05.deps.json
+/Users/macintosh/RiderProjects/Lab05/Lab05/bin/Debug/net7.0/Lab05.runtimeconfig.json
+/Users/macintosh/RiderProjects/Lab05/Lab05/bin/Debug/net7.0/Lab05.dll
+/Users/macintosh/RiderProjects/Lab05/Lab05/bin/Debug/net7.0/Lab05.pdb
+/Users/macintosh/RiderProjects/Lab05/Lab05/obj/Debug/net7.0/Lab05.dll
+/Users/macintosh/RiderProjects/Lab05/Lab05/obj/Debug/net7.0/refint/Lab05.dll
+/Users/macintosh/RiderProjects/Lab05/Lab05/obj/Debug/net7.0/Lab05.pdb
+/Users/macintosh/RiderProjects/Lab05/Lab05/obj/Debug/net7.0/Lab05.genruntimeconfig.cache
+/Users/macintosh/RiderProjects/Lab05/Lab05/obj/Debug/net7.0/ref/Lab05.dll
