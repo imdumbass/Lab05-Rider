@@ -21,11 +21,17 @@ class Program {
 				companyName: "Presidential Protected Lines"
 		);
 		
+		/* Компания заключает договор с Emmanuel Macron */
 		Client emmanuelMacron = new Client(
 			name: "Emmanuel Macron",
 			phoneNumber: "+338472956439"
 		);
 		
+		automaticTelephoneExchange
+			.clients
+			.Add(emmanuelMacron);
+		
+		/* Клиент осуществляет разговоры */
 		emmanuelMacron.calls = new List<Call>() {
 			new Call(
 				callDuration: 60, 
@@ -49,15 +55,17 @@ class Program {
 			),
 		};
 		emmanuelMacron.overdueBillingDays = 10;
-		automaticTelephoneExchange
-			.clients
-			.Add(emmanuelMacron);
-		
+
+		/* Компания заключает договор с Vladimir Putin */
 		Client vladimirPutin = new Client(
 			name: "Vladimir Putin",
 			phoneNumber: "+74956046363"
 		);
+		automaticTelephoneExchange
+			.clients
+			.Add(vladimirPutin);
 		
+		/* Клиент осуществляет разговоры */
 		vladimirPutin.calls = new List<Call>() {
 			new Call(
 				callDuration: 60, 
@@ -81,10 +89,8 @@ class Program {
 			),
 		};
 		vladimirPutin.overdueBillingDays = 3;
-		automaticTelephoneExchange
-			.clients
-			.Add(vladimirPutin);
 
+		
 		ATEBill emmanuelMacronBill = AutomaticTelephoneExchange.getBill(emmanuelMacron);
 		ATEBill vladimirPutinBill = AutomaticTelephoneExchange.getBill(vladimirPutin);
 		
